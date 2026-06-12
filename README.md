@@ -9,9 +9,9 @@
 ### 🇧🇷 Traduções • Mods • Ferramentas • Guias • Recursos da Comunidade
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Contributions](https://img.shields.io/badge/Contributions-Welcome-green.svg)]()
-[![Platform](https://img.shields.io/badge/Platform-PC%20%7C%20Steam-orange.svg)]()
-[![Language](https://img.shields.io/badge/Language-PT--BR-success.svg)]()
+[![Contributions](https://img.shields.io/badge/Contributions-Welcome-green.svg)](https://github.com/Pixelcraft-Studios-Oficial/pixelcraft-The-Elders-Scrolls-V/pulls)
+[![Platform](https://img.shields.io/badge/Platform-PC%20%7C%20Steam-orange.svg)](https://store.steampowered.com/agecheck/app/489830/)
+[![Language](https://img.shields.io/badge/Language-PT--BR-success.svg)](https://github.com/Pixelcraft-Studios-Oficial/pixelcraft-The-Elders-Scrolls-V)
 
 ---
 

@@ -1,4 +1,4 @@
-# 🐉 PixelCraft Studio - The Elder Scrolls V: Skyrim.
+# 🐉 PixelCraft Studio - The Elder Scrolls V: Skyrim
 
 <div align="center">
 
